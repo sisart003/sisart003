@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 
 <picture>
- <img alt="waifu" src="[https://i.pinimg.com/736x/d9/3e/6e/d93e6e49d06d27a9e06af70d8a1da172.jpg](https://i.pinimg.com/736x/d9/3e/6e/d93e6e49d06d27a9e06af70d8a1da172.jpg)">
+ <img alt="waifu" src="https://i.pinimg.com/736x/d9/3e/6e/d93e6e49d06d27a9e06af70d8a1da172.jpg">
 </picture>
 
 <details>
