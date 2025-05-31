@@ -1,3 +1,4 @@
+# To do Later
 ## Hi there 👋
 
 <!--
@@ -15,7 +16,19 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="waifu" src="https://i.pinimg.com/736x/c4/32/de/c432deb9b9edbb50e655f9224f29b47d.jpg">
+ <img alt="waifu" src="https://i.pinimg.com/736x/d9/3e/6e/d93e6e49d06d27a9e06af70d8a1da172.jpg">
 </picture>
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| C Programming |
+|     2| Cyber Security|
+|     3| Bug Bountry   |
+
+</details>
+
+--- 
+> This is the best
