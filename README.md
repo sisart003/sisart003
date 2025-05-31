@@ -13,3 +13,9 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="waifu" src="https://i.pinimg.com/736x/c4/32/de/c432deb9b9edbb50e655f9224f29b47d.jpg">
+</picture>
